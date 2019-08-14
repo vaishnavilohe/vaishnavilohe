@@ -7,7 +7,8 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-features ="Feature",glue = {"stepDefination"},tags="@tag4,@data_driver")
+		plugin= {"pretty","json:cucumber/target.json"},
+features ="Feature",glue = {"stepDefination"},tags="@tag56")
 
 public class DemoTestRunner {
 

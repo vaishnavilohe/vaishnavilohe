@@ -2,7 +2,7 @@
 
 Feature: Testing the Feature files
 
-  @tag3
+  @tag56
   Scenario: Test Demo
     Given Launch the Browser
     And Launch the Application
