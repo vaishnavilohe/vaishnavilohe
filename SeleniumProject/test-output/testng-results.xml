@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8905" started-at="2019-08-08T04:11:28Z" finished-at="2019-08-08T04:11:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8905" started-at="2019-08-08T04:11:28Z" finished-at="2019-08-08T04:11:36Z">
+      <class name="utils.loginpage">
+        <test-method status="PASS" signature="launchtest()[pri:0, instance:utils.loginpage@68c4039c]" name="launchtest" duration-ms="8876" started-at="2019-08-08T04:11:28Z" finished-at="2019-08-08T04:11:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchtest -->
+      </class> <!-- utils.loginpage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
